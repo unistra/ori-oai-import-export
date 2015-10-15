@@ -1,0 +1,29 @@
+---
+ETABLISSEMENT: unistra
+LIBELLE_ETABLISSEMENT: Université de Strasbourg 
+autoriteSudoc_etabSoutenance: 026404184
+langue_titre_defaut: fr
+these_sur_travaux: non
+langue_de_these: fr
+---
+001: id
+003: source
+101: { a: language }
+102: { a: coverage }
+135: { a: typedoc }
+328: { b: type, d: date, c: description }
+330: { a: description }
+200: { a: title, e: subtitle }
+210: { c: publisher }
+320: { a: summary }
+337: { a: rights }
+600: [ t1, { a: a, b: b, c: c, q: q } ]
+601: [ t2, { a: a, b: b, c: c, q: q } ]
+606: [ u1, { a: a, x: x, y: y, z: z } ]
+607: [ u2, { a: a, x: x, y: y, z: z } ]
+610: [ v1, { a: a, b: b, c: c, q: q } ]
+686: [ w1, { a: a, b: b, c: c, q: q } ]
+700: [ c1, { a: a, b: b } ]
+701: [ c2, { a: a, b: b } ]
+702: [ contributor, { a: a, b: b } ]
+856: { q: format, u: identifier }
