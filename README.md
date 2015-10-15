@@ -13,6 +13,7 @@ Scripts d'extraction et d'import de notices depuis des fichiers du SUDOC (unimar
 * Installer les librairies Perl :
  
     cpanm Perlude MARC::MIR MARC::MIR::Template XML::Tag YAML
+
     eval $( perl -Mlocal::lib )
     
 * Installer le client SOAP pour Python 3 suds-jurko (https://pypi.python.org/pypi/suds-jurko):
